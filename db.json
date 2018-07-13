@@ -1,17 +1,29 @@
 {
-  "produtos": [],
-  "categorias": [
+  "produtos": [
     {
       "id": 1,
-      "categoria": "Limpeza"
+      "descricao": "vassoura",
+      "categoria": 1
     },
     {
       "id": 2,
-      "categoria": "Alimentos"
+      "descricao": "sabão liquido",
+      "categoria": 1
     },
     {
       "id": 3,
-      "categoria": "Produtos"
+      "descricao": "Bolacha Maria",
+      "categoria": 2
+    }
+  ],
+  "categorias": [
+    {
+      "categoria": "Limpeza",
+      "id": 1
+    },
+    {
+      "categoria": "Comidas",
+      "id": 2
     }
   ]
 }
