@@ -18,12 +18,20 @@
   ],
   "categorias": [
     {
-      "categoria": "Limpeza",
+      "categoria": "nova",
       "id": 1
     },
     {
-      "categoria": "Comidas",
+      "categoria": "nova",
       "id": 2
+    },
+    {
+      "categoria": "de",
+      "id": 3
+    },
+    {
+      "categoria": "nus",
+      "id": 4
     }
   ]
 }
