@@ -1,37 +1,33 @@
 {
   "produtos": [
     {
-      "id": 1,
-      "descricao": "vassoura",
-      "categoria": 1
+      "id": 8,
+      "descricao": "bife",
+      "categoria": "2"
     },
     {
-      "id": 2,
-      "descricao": "sabão liquido",
-      "categoria": 1
+      "descricao": "arroz",
+      "categoria": "2",
+      "id": 9
     },
     {
-      "id": 3,
-      "descricao": "Bolacha Maria",
-      "categoria": 2
+      "id": 10,
+      "descricao": "gel pedra",
+      "categoria": "1"
     }
   ],
   "categorias": [
     {
-      "categoria": "nova",
-      "id": 1
+      "id": 1,
+      "categoria": "Limpezas"
     },
     {
-      "categoria": "nova",
-      "id": 2
+      "id": 2,
+      "categoria": "Comidas"
     },
     {
-      "categoria": "de",
-      "id": 3
-    },
-    {
-      "categoria": "nus",
-      "id": 4
+      "id": 3,
+      "categoria": "Beleza"
     }
   ]
 }
